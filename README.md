@@ -1,1 +1,1 @@
-The code and data of MFGCL.
+The code and data of FMGCL.
