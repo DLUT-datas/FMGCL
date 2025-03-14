@@ -1,1 +1,1 @@
-The code and data of MGCL.
+The code and datasets of FMGCL model.
